@@ -624,7 +624,9 @@
             </value>
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-            <value/>
+            <value>
+                <option name="EFFECT_COLOR" value="8787A2" />
+            </value>
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
             <value>
@@ -1218,7 +1220,9 @@
             </value>
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-            <value/>
+            <value>
+                <option name="EFFECT_COLOR" value="8787A2" />
+            </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
